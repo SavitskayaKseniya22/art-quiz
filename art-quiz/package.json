@@ -3,9 +3,9 @@
   "description": "Quiz about art",
   "private": true,
   "name": "art-quiz",
-  "repository": {
-    "url": "git+https://github.com/SavitskayaKseniya22/art-quiz.git"
-  },
+  
+  "homepage": "https://github.com/SavitskayaKseniya22/art-quiz.git"
+  ,
   "scripts": {
     "start": "rss-scripts start",
     "build": "rss-scripts build",
